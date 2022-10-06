@@ -1,0 +1,48 @@
+[
+  {
+    "terminator" : {
+      "name" : "terminator",
+      "imdb" : 8.1,
+      "age" : "+17",
+      "genre" : "Action | sci-fi",
+      "imgs" : ["https://raw.githubusercontent.com/MAHcpp/tv/main/section1/002a.webp",
+              "https://raw.githubusercontent.com/MAHcpp/tv/main/section1/002b.webp" ]
+    },
+  
+    "v" : {
+      "name" : "v for vendetta",
+      "imdb" : 8.2,
+      "age" : "+18",
+      "genre" : "Dram | Action",
+      "imgs" : ["https://raw.githubusercontent.com/MAHcpp/tv/main/section1/004a.webp",
+              "https://raw.githubusercontent.com/MAHcpp/tv/main/section1/004b.webp" ]
+    },
+  
+    "lord" : {
+      "name" : "lord of rings",
+      "imdb" : 8.8,
+      "age" : "+15",
+      "genre" : "Fantasy | Action",
+      "imgs" : ["https://raw.githubusercontent.com/MAHcpp/tv/main/section1/005a.webp",
+              "https://raw.githubusercontent.com/MAHcpp/tv/main/section1/005b.webp" ]
+    },
+  
+    "spiderman" : {
+      "name" : "spiderman",
+      "imdb" : 7.8,
+      "age" : "+12",
+      "genre" : "Fantasy | Action",
+      "imgs" : ["https://raw.githubusercontent.com/MAHcpp/tv/main/section1/006a.webp",
+              "https://raw.githubusercontent.com/MAHcpp/tv/main/section1/006b.webp" ]
+    },
+  
+    "batman" : {
+      "name" : "batman",
+      "imdb" : 8.7,
+      "age" : "+12",
+      "genre" : "Action | Mystery",
+      "imgs" : ["https://raw.githubusercontent.com/MAHcpp/tv/main/section1/007a.webp",
+              "https://raw.githubusercontent.com/MAHcpp/tv/main/section1/007b.webp" ]
+    }
+  }
+]
